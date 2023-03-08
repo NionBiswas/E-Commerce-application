@@ -1,0 +1,12 @@
+C:\NionBookWeb\BookWeb.Utility\bin\Debug\net6.0\BookWeb.Utility.deps.json
+C:\NionBookWeb\BookWeb.Utility\bin\Debug\net6.0\BookWeb.Utility.dll
+C:\NionBookWeb\BookWeb.Utility\bin\Debug\net6.0\BookWeb.Utility.pdb
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.csproj.AssemblyReference.cache
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.AssemblyInfoInputs.cache
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.AssemblyInfo.cs
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.csproj.CoreCompileInputs.cache
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.dll
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\refint\BookWeb.Utility.dll
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\BookWeb.Utility.pdb
+C:\NionBookWeb\BookWeb.Utility\obj\Debug\net6.0\ref\BookWeb.Utility.dll

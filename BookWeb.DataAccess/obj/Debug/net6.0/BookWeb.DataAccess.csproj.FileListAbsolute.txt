@@ -1,0 +1,17 @@
+C:\NionBookWeb\BookWeb.DataAccess\bin\Debug\net6.0\BookWeb.DataAccess.deps.json
+C:\NionBookWeb\BookWeb.DataAccess\bin\Debug\net6.0\BookWeb.DataAccess.runtimeconfig.json
+C:\NionBookWeb\BookWeb.DataAccess\bin\Debug\net6.0\BookWeb.DataAccess.dll
+C:\NionBookWeb\BookWeb.DataAccess\bin\Debug\net6.0\BookWeb.DataAccess.pdb
+C:\NionBookWeb\BookWeb.DataAccess\bin\Debug\net6.0\BookWeb.Models.dll
+C:\NionBookWeb\BookWeb.DataAccess\bin\Debug\net6.0\BookWeb.Models.pdb
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.csproj.AssemblyReference.cache
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.AssemblyInfoInputs.cache
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.AssemblyInfo.cs
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.csproj.CoreCompileInputs.cache
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.csproj.CopyComplete
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.dll
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\refint\BookWeb.DataAccess.dll
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.pdb
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\BookWeb.DataAccess.genruntimeconfig.cache
+C:\NionBookWeb\BookWeb.DataAccess\obj\Debug\net6.0\ref\BookWeb.DataAccess.dll
